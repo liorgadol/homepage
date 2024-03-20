@@ -3,16 +3,16 @@
 # https://gethomepage.dev/latest/configs/services
 
 - My First Group:
-    - My First Service:
-        href: http://localhost/
-        description: Homepage is awesome
+    - qBitorrent:
+        href: http://192.168.1.2:8090
+        description: Bittorent
 
 - My Second Group:
-    - My Second Service:
-        href: http://localhost/
-        description: Homepage is the best
+    - Pihole:
+        href: http://192.168.1.2/admin/index.php
+        description: Pihole
 
 - My Third Group:
-    - My Third Service:
-        href: http://localhost/
-        description: Homepage is 😎
+    - Emby:
+        href: http://192.168.1.2:8096/web/index.html#!/dashboard.html
+        description: Emby Media Server
