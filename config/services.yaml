@@ -2,11 +2,8 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/latest/configs/services
 
-- Emby:
-    icon: emby.png
+name: Media
+services:
+  - name: Emby
     href: http://192.168.1.2:8096
-    description: Movies & TV Shows
-    widget:
-      type: emby
-      url: http://192.168.1.2:8096
-      key: c67372be34ee4ce2a5769ed6a3677661
+    icon: emby.png
