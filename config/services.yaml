@@ -16,3 +16,28 @@
     - Emby:
         href: http://192.168.1.2:8096/web/index.html#!/dashboard.html
         description: Emby Media Server
+
+        groups:
+  - name: Media
+    services:
+      - name: Emby
+        href: http://192.168.1.2:8096
+        icon: emby.png
+
+  - name: Network
+    services:
+      - name: Pihole
+        href: http://192.168.1.2/admin
+        icon: pi-hole.png
+
+  - name: Management
+    services:
+      - name: Portainer
+        href: https://192.168.1.2:9443/#!/home
+        icon: portainer.png
+
+  - name: Downloading
+    services:
+      - name: qBittorrent
+        href: http://192.168.1.2:8090
+        icon: qbittorrent.png
