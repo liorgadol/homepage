@@ -7,6 +7,7 @@
         icon: https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png.webp
         href: http://192.168.1.2/admin
         ping: http://192.168.1.2/admin
+        description: Adblock
         widget:
             type: pihole 
             url: http://192.168.1.2
@@ -15,7 +16,8 @@
     - Emby:
         icon: emby.png
         href: http://192.168.1.2:8096
-        description: Movies & TV Shows
+        ping: http://192.168.1.2:8096
+        description: Media Server
         widget:
               type: emby
               url: http://192.168.1.2:8096
