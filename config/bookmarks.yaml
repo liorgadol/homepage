@@ -8,10 +8,10 @@
           href: https://github.com/liorgadol/
 
 - Router:
-    - Main:
+    - Login:
         - abbr: AX3
           href: http://192.168.1.1/
-    - Main:
+    - Login:
         - abbr: Dlink
           href: http://192.168.1.100/          
 
