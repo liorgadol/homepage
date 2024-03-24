@@ -22,3 +22,15 @@
               type: emby
               url: http://192.168.1.2:8096
               key: c67372be34ee4ce2a5769ed6a3677661
+
+    - Portainer:
+        icon: portainer.png
+        description: Docker Management GUI
+        href: https://192.168.1.2:9443
+        server: https://192.168.1.2:9443
+        container: portainer
+        widget:
+              type: portainer
+              url: https://192.168.1.2:9443
+              env: 1
+              key: ptr_qWKnmknxUD39G7eztrvtkRbAEafevvOU1HJR9V5v2QU=
