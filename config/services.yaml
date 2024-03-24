@@ -27,7 +27,6 @@
         icon: portainer.png
         description: Docker Management GUI
         ping: https://192.168.1.2:9443
-        href: https://192.168.1.2:9443
         server: https://192.168.1.2:9443
         container: portainer
         widget:
