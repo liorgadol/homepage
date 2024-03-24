@@ -7,8 +7,7 @@
         icon: https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png.webp
         href: http://192.168.1.2/admin
         ping: http://192.168.1.2/admin
-        description: PiHole - Blocking pesty ads widget:
         widget:
             type: pihole 
             url: http://192.168.1.2
-            key:
+            key: c983f7211bc18bf8ae43ee9ef7dc6ac0c22ac584d14480779b95c07371de0427
