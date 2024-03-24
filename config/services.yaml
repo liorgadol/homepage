@@ -11,3 +11,12 @@
             type: pihole 
             url: http://192.168.1.2
             key: c983f7211bc18bf8ae43ee9ef7dc6ac0c22ac584d14480779b95c07371de0427
+
+    - Emby:
+        icon: emby.png
+        href: http://192.168.1.2:8096
+        description: Movies & TV Shows
+        widget:
+              type: emby
+              url: http://192.168.1.2:8096
+              key: c67372be34ee4ce2a5769ed6a3677661
