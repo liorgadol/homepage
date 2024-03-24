@@ -2,11 +2,13 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/latest/configs/services
 
-- Emby:
-    icon: emby.png
-    href: http://192.168.1.2:8096
-    description: Movies & TV Shows
-    widget:
-      type: emby
-      url: http://192.168.1.2:8096
-      key: c67372be34ee4ce2a5769ed6a3677661
+- Home:
+    - Pi-Hole:
+        icon: https://wp-cdn.pi-hole.net/wp-content/uploads/2016/12/Vortex-R.png.webp
+        href: http://192.168.1.2/admin
+        ping: http://192.168.1.2/admin
+        description: PiHole - Blocking pesty ads widget:
+        widget:
+            type: pihole 
+            url: http://192.168.1.2
+            key:
