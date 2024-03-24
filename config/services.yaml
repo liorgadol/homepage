@@ -41,9 +41,7 @@
         description: Qbittorent
         href: http://192.168.1.2:8090
         widget:
-            type: iframe
-            classes: h-60
-            name: QBittorrent
+            type: qbittorrent
             src: http://192.168.1.2:8090
             username: gadol
             password: Skqsz7913!
