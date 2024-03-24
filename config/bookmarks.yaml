@@ -4,16 +4,15 @@
 
 - Developer:
     - Github:
+        - abbr: GH
           href: https://github.com/liorgadol/
 
 - Router:
     - Homepage:
-        - abbr: Main
+        - abbr: AX3
           href: http://192.168.1.1/
-
-        - abbr: Secondery
-          href: http://192.168.1.100          
 
 - Entertainment:
     - YouTube:
+        - abbr: YT
           href: https://youtube.com/
