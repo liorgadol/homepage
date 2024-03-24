@@ -35,3 +35,15 @@
               url: https://192.168.1.2:9443
               env: 2
               key: ptr_qWKnmknxUD39G7eztrvtkRbAEafevvOU1HJR9V5v2QU=
+
+    - QBittorrent:
+        icon: qbittorrent.png
+        description: Qbittorent
+        href: http://192.168.1.2:8090
+        widget:
+            type: iframe
+            classes: h-60
+            name: QBittorrent
+            src: http://192.168.1.202:8080
+            username: gadol
+            password: Skqsz7913!
