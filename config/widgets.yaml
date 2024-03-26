@@ -2,6 +2,12 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/latest/configs/service-widgets
 
+- datetime:
+    text_size: xl
+    format:
+      timeStyle: short
+      hourCycle: h23
+      
 - resources:
     cpu: true
     memory: true
