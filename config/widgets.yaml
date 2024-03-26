@@ -3,15 +3,15 @@
 # https://gethomepage.dev/latest/configs/service-widgets
 
 - datetime:
-    text_size: xl
+    text_size: 2xl
     format:
       timeStyle: short
       hourCycle: h23
       
-- resources:
-    cpu: true
-    memory: true
-    disk: /
+# - resources:
+#    cpu: true
+#    memory: true
+#    disk: /
 
 - search:
     provider: google
