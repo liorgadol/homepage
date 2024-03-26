@@ -15,7 +15,13 @@
         - abbr: Dlink
           href: http://192.168.1.100/          
 
-- Entertainment:
-    - YouTube:
-        - abbr: YT
-          href: https://youtube.com/
+- Torrents:
+    - TorrentLeech:
+        - abbr: TL
+          href: http://www.torrentleech.org/torrents/browse
+    - Fuzer:
+        - abbr: FU
+          href: https://www.fuzer.me/login.php
+    - Hebits:
+        - abbr: HB
+          href: https://hebits.net/login.php/
