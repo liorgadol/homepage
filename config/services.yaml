@@ -10,8 +10,9 @@
         description: Adblock
         widget:
             type: pihole 
-            url: http://192.168.1.2
-            key: c983f7211bc18bf8ae43ee9ef7dc6ac0c22ac584d14480779b95c07371de0427
+            url: http://192.168.1.200
+            version: 6
+            key: aokkwlZetqFDUx+tSaBLrMQPOMvSAdGP1EhklSIeC2Y=
 
     - Emby:
         icon: emby.png
